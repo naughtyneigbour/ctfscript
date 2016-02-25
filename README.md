@@ -1,3 +1,3 @@
 # CTFScript
 
-This is just a global repo with scripts and program usefull for ctf hacking.
+This repo regroup scripts and program useful for ctf hacking competition.
